@@ -1,8 +1,8 @@
 # avai-assignment
-Edit pose of an object in a scene
-This problem statement involves two tasks 
-1)The initial part of the assignment, titled "task1.ipynb", involves segmenting a specific object within a designated scene, as determined by a user-provided class prompt. This aspect of the task addresses the 'user-friendly' requirement of the problem statement. To segment the object of interest within the scene, we utilize SAM (Segment Anything) based on the prompts given. In order to maintain the integrity of the background scene, we employ LaMa (Large Mask) techniques.
 
+This problem statement involves two tasks 
+
+1)The initial part of the assignment, titled "task1.ipynb", involves segmenting a specific object within a designated scene, as determined by a user-provided class prompt. This aspect of the task addresses the 'user-friendly' requirement of the problem statement. To segment the object of interest within the scene, we utilize SAM (Segment Anything) based on the prompts given. In order to maintain the integrity of the background scene, we employ LaMa (Large Mask) techniques.
 
 
 2) The second part of the assignment (task2.ipynb) is to edit the pose of the object by taking user poses (e.g. Azimuth +10 degrees, Polar -5
