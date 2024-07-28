@@ -3,7 +3,7 @@
 This problem statement involves two tasks 
 
 
-1) The initial part of the assignment, titled "task1.ipynb", involves segmenting a specific object within a designated scene, as determined by a user-provided class prompt. This aspect of the task addresses the 'user-friendly' requirement of the problem statement. To segment the object of interest within the scene, we utilize SAM (Segment Anything) based on the prompts given. In order to maintain the integrity of the background scene, we employ LaMa (Large Mask) techniques.
+1) The initial part of the assignment, titled [task1.ipynb](https://github.com/ayyappa1993/avai-assignment/blob/main/task1.ipynb), involves segmenting a specific object within a designated scene, as determined by a user-provided class prompt. This aspect of the task addresses the 'user-friendly' requirement of the problem statement. To segment the object of interest within the scene, we utilize SAM (Segment Anything) based on the prompts given. In order to maintain the integrity of the background scene, we employ LaMa (Large Mask) techniques.
 
 [Segmented mask of a chair using SAM](https://github.com/ayyappa1993/avai-assignment/blob/main/masks/lamp_mask.png)  
 
