@@ -7,8 +7,7 @@ This problem statement involves two tasks
 
 
 2) The second part of the assignment (task2.ipynb) is to edit the pose of the object by taking user poses (e.g. Azimuth +10 degrees, Polar -5
-degrees).
-# TBD
+degrees). # TBD
 
 
 
